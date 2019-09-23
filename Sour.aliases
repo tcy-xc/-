@@ -1,0 +1,6 @@
+[My Computer]
+My Computer = "192.168.224.1"
+
+[RT PXIe-8840]
+RT PXIe-8840 = "192.168.0.102"
+

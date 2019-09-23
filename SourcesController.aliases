@@ -1,0 +1,12 @@
+[My Computer]
+My Computer = "192.168.224.1"
+
+[NI-PXIe8840QuadCore-2F1639A5]
+NI-PXIe8840QuadCore-2F1639A5 = "169.254.105.59"
+
+[RT PXIe-8840]
+RT PXIe-8840 = "192.168.0.102"
+
+[我的电脑]
+我的电脑 = "192.168.0.174"
+
